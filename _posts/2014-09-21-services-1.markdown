@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Voice Cloning
+description: |
+---
+  Voice cloning is the creation of an artificial simulation of a person's voice. Today's AI voice cloning methods are capable of generating synthetic speech that closely resembles a targeted human voice. In some cases, the difference between the real and fake voice is imperceptible to the average person.
