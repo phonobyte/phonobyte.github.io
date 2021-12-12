@@ -1,3 +1,3 @@
 # PhonoByte
 
-Create natural voice from text.
+Learning Voice Everyday
