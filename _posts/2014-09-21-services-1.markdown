@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: audio_wheel_removed.png
 category: Services
-title: Voice Cloning
+title: Audio Quality Measurement
 description: |
 ---
-  Voice cloning is the creation of an artificial simulation of a person's voice. Today's AI voice cloning methods are capable of generating synthetic speech that closely resembles a targeted human voice. In some cases, the difference between the real and fake voice is imperceptible to the average person.
+The sound wheel enables audio professionals to gradually streamline the vocabulary for sound, not only by using a common set of words but just as importantly, by having a common understanding of the meaning of those words, as each one comes with a definition. It can help both audio professionals and members of listener panels to talk about sound using a common language.

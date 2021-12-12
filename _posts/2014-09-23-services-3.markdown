@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: PRODUCTION COMPANIES
-description: |
----
-Produce lifelike audio output from text using ground-breaking NLP technology.
