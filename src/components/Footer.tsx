@@ -1,4 +1,4 @@
-import { Github, Linkedin, Twitter } from "lucide-react";
+import { Github, Linkedin } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -13,25 +13,22 @@ const Footer = () => {
 
           <div className="flex items-center gap-6">
             <a
-              href="#"
+              href="https://github.com/phonobyte"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-hero-foreground/50 hover:text-primary transition-colors"
               aria-label="GitHub"
             >
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/company/phonobyte"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-hero-foreground/50 hover:text-primary transition-colors"
               aria-label="LinkedIn"
             >
               <Linkedin className="w-5 h-5" />
-            </a>
-            <a
-              href="#"
-              className="text-hero-foreground/50 hover:text-primary transition-colors"
-              aria-label="Twitter"
-            >
-              <Twitter className="w-5 h-5" />
             </a>
           </div>
 
