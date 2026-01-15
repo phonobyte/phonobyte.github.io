@@ -33,7 +33,7 @@ const Footer = () => {
           </div>
 
           <p className="text-hero-foreground/40 text-sm">
-            © {new Date().getFullYear()} PhonoByte. All rights reserved.
+            © {new Date().getFullYear()} PhonoByte. Pioneering Voice AI.
           </p>
         </div>
       </div>
